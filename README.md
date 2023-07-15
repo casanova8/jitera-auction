@@ -37,8 +37,9 @@ git config --global core.autocrlf input
 # How to start
 
 - `npm run install:all` at the root
-- Start backend `cd packages/backend && npm run start`
-- Start frontend `cd packages/frontend && npm run start`
+- Start backend
+```cd packages/backend && npm run start```
+- Start frontend ```cd packages/frontend && npm run start```
 
 There are also other npm scripts, they are used for code style checks and linting
 

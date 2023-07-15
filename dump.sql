@@ -5,7 +5,7 @@
 -- Dumped from database version 15.3
 -- Dumped by pg_dump version 15.3 (Homebrew)
 
--- Started on 2023-07-16 04:40:38 WIB
+-- Started on 2023-07-16 05:13:37 WIB
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -749,7 +749,6 @@ Incredible Rubber Chicken	The automobile layout consists of a front-engine desig
 Tasty Metal Cheese	The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design	West Dixie	AUCTION	ACTIVE	2023-04-23 11:42:38.681	2022-05-30 04:26:44.364	2022-08-11 12:32:54.978	Avon	9e26928f-7a92-4a67-a33c-4e40d1c551f4	$58,967.00	$36,808.00	$689.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	79946740-1328-414f-bef0-926cb4eb59be	a351b320-76d7-4545-bb74-8bb1f2fa486d	\N	12	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 Practical Bronze Car	New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart	Taraberg	AUCTION	ACTIVE	2023-05-25 17:54:52.169	2021-12-03 15:38:16.633	2022-08-11 21:34:25.259	Sleek	24d1db90-9ac9-413f-854b-5b98dc220c38	$40,072.00	$20,984.00	$463.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	807f73fb-31b8-4e66-9f74-babc8ee95d94	0bfc0f51-e082-4dc9-b545-ae0afedbd330	\N	53	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 Unbranded Cotton Cheese	New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016	Malvinaville	AUCTION	ACTIVE	2023-05-25 13:39:29.845	2022-05-26 09:20:56.715	2022-08-11 18:17:57.767	Rhode	58dddeb4-3814-4c34-87a4-07854391e643	$93,311.00	$45,143.00	$706.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	b8f594a9-e836-4e25-9979-a56500b21be2	8556c563-4b04-43cb-8fe1-5bc53b5f0aad	\N	85	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
-Recycled Concrete Towels	The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality	South Darrellborough	AUCTION	ACTIVE	2023-04-20 13:37:10.147	2022-04-05 08:31:28.5	2022-08-11 08:39:16.146	input	1cc0b14c-3499-416c-99cc-8acc4b33f141	$56,609.00	$27,126.00	$86.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	f5cf90f8-6943-4e42-b006-03cf9bb707a4	948feb22-e480-4e24-a90d-e49aa3d990c2	\N	67	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 Oriental Frozen Pizza	The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design	West Bernita	AUCTION	ACTIVE	2022-08-14 06:11:27.351	2021-08-15 01:59:08.588	2022-08-12 05:02:25.841	Toys	94f3dc3c-0024-456b-bef7-4951ceadbb7c	$91,427.00	$32,043.00	$603.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	47504cdd-55e6-4584-9539-6eef69c6deed	54fa7b5f-58d1-4e5d-b588-d9a8507fa3c7	\N	51	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 Bespoke Wooden Cheese	The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality	New Maude	AUCTION	ACTIVE	2023-06-15 19:02:03.065	2021-09-22 18:26:51.017	2022-08-12 05:08:21.846	withdrawal	acebe7ce-fdd1-43e3-b809-60d5529007a1	$46,883.00	$40,106.00	$637.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	79946740-1328-414f-bef0-926cb4eb59be	410c606f-f463-42ec-988e-d95917dd2834	\N	12	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 Generic Granite Keyboard	The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design	Port Elwynland	AUCTION	SOLD	2022-09-22 21:57:41.419	2022-04-30 03:11:20.886	2022-08-11 09:46:52.386	lavender	b1c5fe54-e4f6-41da-830d-a8405eb3afed	$90,705.00	$21,190.00	$867.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	b8f594a9-e836-4e25-9979-a56500b21be2	7062243f-f114-4b5a-abea-64fc21f4e117	807f73fb-31b8-4e66-9f74-babc8ee95d94	41	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
@@ -770,6 +769,7 @@ Unbranded Wooden Bacon	The Nagasaki Lander is the trademarked name of several se
 Small Cotton Ball	New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016	Bonita Springs	AUCTION	DRAFT	2022-12-17 07:26:47.297	2022-01-20 05:29:34.053	2022-08-11 23:00:12.901	deposit	6d804764-11e4-48bb-93b5-fd3f48fbfd2e	$95,461.00	$6,486.00	$685.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	807f73fb-31b8-4e66-9f74-babc8ee95d94	410c606f-f463-42ec-988e-d95917dd2834	\N	39	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 Tasty Concrete Towels	Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles	New Carolanneside	AUCTION	ACTIVE	2023-02-06 10:41:15.074	2022-03-18 20:12:17.097	2022-08-11 20:21:14.25	Dollar	ed47637a-3d78-4a28-ba02-387d15d8cecf	$80,967.00	$21,743.00	$58.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	b8f594a9-e836-4e25-9979-a56500b21be2	7062243f-f114-4b5a-abea-64fc21f4e117	\N	58	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 Handcrafted Soft Computer	Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles	Fort Norrisside	AUCTION	DRAFT	2022-12-09 12:32:04.224	2021-09-06 05:58:55.327	2022-08-12 06:41:40.35	Investment	11e9dda4-bd1c-4f47-b1cc-30c805666ed9	$33,052.00	$6,108.00	$60.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	f5cf90f8-6943-4e42-b006-03cf9bb707a4	f5750398-bdfa-4262-adbb-c1e1c4cc92eb	\N	71	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
+Recycled Concrete Towels	The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality	South Darrellborough	AUCTION	ACTIVE	2023-04-20 13:37:10.147	2022-04-05 08:31:28.5	2023-07-15 21:45:44.442	input	1cc0b14c-3499-416c-99cc-8acc4b33f141	$56,609.00	$27,126.00	$86.00	{https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract,https://loremflickr.com/640/480/abstract}	f5cf90f8-6943-4e42-b006-03cf9bb707a4	948feb22-e480-4e24-a90d-e49aa3d990c2	\N	68	USA	+380 13 825 4164	2023-01-06 12:49:01.897	NEW	f
 \.
 
 
@@ -780,6 +780,9 @@ Handcrafted Soft Computer	Boston's most advanced compression wear technology inc
 --
 
 COPY public."RefreshToken" (id, "userId", token, "expiresAt") FROM stdin;
+ab4fb3c1-1165-4b87-80fb-8dbbf65656a9	53a9aa4d-3324-400d-baf3-016749958445	b56e18dfbf893668f66e501c8c0e2871a0c35762f2d25803e6f7f7689ed6be61	2023-07-15 21:59:38
+e8786cc5-326d-4941-b778-03ebdfa715e7	53a9aa4d-3324-400d-baf3-016749958445	61891486500aac704ebacde11ab53e409695a0b77a1453464d967089e17cae1d	2023-07-15 21:59:49
+eafeeb0b-21f7-4ff3-92ad-e130cb256313	53a9aa4d-3324-400d-baf3-016749958445	432b002da7b05af0a71461358c22686042706d25c57a99ac2cd647da1fb5ac92	2023-07-15 22:00:36
 \.
 
 
@@ -810,6 +813,7 @@ Webster.Gorczany54@hotmail.com	+380 13 825 4164	Jordane	Hilpert	https://cloudfla
 Leland85@gmail.com	+380 73 807 5018	Milan	Crona	https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/382.jpg	2022-02-09 09:13:41.962	USER	2022-08-11 10:57:46.997	f5cf90f8-6943-4e42-b006-03cf9bb707a4	5c6962d8a115970e390ab613b0533a7a6a8ac2e8aa8c4891d849585e8b34dfb3	t	t
 Aidan_Bosco@hotmail.com	+380 43 934 3101	Caroline	Rutherford	https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/700.jpg	2022-05-11 14:49:23.483	USER	2022-08-11 12:04:23.026	47504cdd-55e6-4584-9539-6eef69c6deed	5c6962d8a115970e390ab613b0533a7a6a8ac2e8aa8c4891d849585e8b34dfb3	t	t
 Joan67@yahoo.com	+380 08 748 7735	Pietro	Cummerata	https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/247.jpg	2021-12-26 06:41:18.845	USER	2022-08-11 18:03:27.357	79946740-1328-414f-bef0-926cb4eb59be	5c6962d8a115970e390ab613b0533a7a6a8ac2e8aa8c4891d849585e8b34dfb3	t	t
+ricky.yuliadi@gmail.com	+6281314332228	ricky	yuliadi	\N	2023-07-14 23:25:19.147	USER	2023-07-14 23:25:54.548	53a9aa4d-3324-400d-baf3-016749958445	bc986bb7f758825bfa75be22b20685dce9cddb1ac3c86148e9d5ec6cd6d15c34	t	t
 \.
 
 
@@ -1258,7 +1262,7 @@ ALTER TABLE ONLY public."UserSettings"
 REVOKE USAGE ON SCHEMA public FROM PUBLIC;
 
 
--- Completed on 2023-07-16 04:40:41 WIB
+-- Completed on 2023-07-16 05:13:40 WIB
 
 --
 -- PostgreSQL database dump complete
