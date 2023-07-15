@@ -36,7 +36,10 @@ git config --global core.autocrlf input
 
 # How to start
 
-- `npm run install:all` at the root
+- at the root
+```
+npm run install:all
+```
 - Start backend
 ```
 cd packages/backend && npm run start
