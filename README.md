@@ -42,7 +42,7 @@ git config --global core.autocrlf input
 
 There are also other npm scripts, they are used for code style checks and linting
 
-### Diagram
+# Diagram
 
 <p align="center">
   <img src="https://i.ibb.co/X8sbvVt/auction-website-diagram.png" />
@@ -60,6 +60,7 @@ There are also other npm scripts, they are used for code style checks and lintin
 - [Express](https://expressjs.com/) - a node.js framework
 - [PostgreSql](https://www.postgresql.org/) - for DB
 
+
 ### Frontend
 
 - [Next](https://nextjs.org/) - React framework
@@ -76,3 +77,23 @@ There are also other npm scripts, they are used for code style checks and lintin
   <img src="https://i.ibb.co/zFMzppC/signup.png" alt="signup" border="0">
 </p>
 1. Sign up page
+<p align="center">
+<img src="https://i.ibb.co/9Z9Nbyz/home-page-no-login.png" alt="home-page-no-login" border="0">
+</p>
+2. Home page can be access by everyone,but they have to login/sign up to make a bid
+<p align="center">
+<img src="https://i.ibb.co/8Kvt2zF/edit-profile.png" alt="edit-profile" border="0">
+</p>
+3. Profile page to see profile info, list items, post items
+<p align="center">
+<img src="https://i.ibb.co/52HKRnT/create-auction.png" alt="create-auction" border="0">
+</p>
+4. Post items for auction
+<p align="center">
+<img src="https://i.ibb.co/JCJK7Hh/my-list.png" alt="my-list" border="0">
+</p>
+5. List items posted, placed bid
+<p align="center">
+<img src="https://i.ibb.co/VV6K2dJ/bid-item.png" alt="bid-item" border="0">
+</p>
+6. Bid items
