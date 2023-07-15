@@ -73,6 +73,6 @@ There are also other npm scripts, they are used for code style checks and lintin
 
 # Documentation
 <p align="center">
-  <img src="https://ibb.co/G96qyyG" />
+  <img src="https://i.ibb.co/zFMzppC/signup.png" alt="signup" border="0">
 </p>
 1. Sign up page
