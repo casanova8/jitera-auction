@@ -1,0 +1,29 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "src",
+    "module": "commonjs",
+    "noEmit": false,
+    "paths": {
+      "@types": ["common/types"],
+      "@enums": ["common/enums"],
+      "@helpers": ["helpers"],
+      "@providers": ["providers"],
+      "@repositories": ["repositories"],
+      "@services": ["services"],
+      "@routes": ["api/routes"],
+      "@middlewares": ["api/middlewares"],
+      "@errors": ["error"],
+      "@mappers": ["mapper"],
+      "@validation": ["validation"],
+      "@lang": ["lang"],
+      "@scheduler": ["scheduler"]
+    },
+    "outDir": "build"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"],
+  "ts-node": {
+    "require": ["tsconfig-paths/register"]
+  }
+}

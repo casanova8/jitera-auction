@@ -1,0 +1,10 @@
+export enum ProductStatus {
+  CREATED = 'CREATED',
+  ACTIVE = 'ACTIVE',
+  CANCELLED = 'CANCELLED',
+  FINISHED = 'FINISHED',
+  CLOSED = 'CLOSED',
+  DRAFT = 'DRAFT',
+  SOLD = 'SOLD',
+  PURCHASED = 'PURCHASED',
+}

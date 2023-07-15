@@ -1,0 +1,66 @@
+{
+  "breadcrumbs": {
+    "home": "Home",
+    "profile": "Account",
+    "myList": "My List"
+  },
+  "pageName": "My List",
+  "card": {
+    "currency_uah": "USD",
+    "seller": "Seller",
+    "buyer": "Buyer",
+    "posted": "Posted",
+    "drafted": "Draft",
+    "purchased": "Purchased",
+    "archived": "Archived",
+    "sold": "Sold",
+    "fixedPrice": "Fixed Price",
+    "auction": "Auction",
+    "edit": "edited",
+    "publish": "Publish",
+    "unarchive": "Unarchive",
+    "tooltip-xmark": "archive",
+    "tooltip-delete": "delete",
+    "tooltip-seeItem": "view"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+  "filter": {
+    "button": {
+      "all": "All",
+      "fixedPrice": "Fixed Price",
+      "auction": "Auction"
+    },
+    "checkbox": {
+      "all": "All",
+      "purchased": "Purchased",
+      "sold": "Sold",
+      "posted": "Posted",
+      "drafts": "Drafts",
+      "archived": "Archived"
+    },
+    "badges": {
+      "allTypes": "All Type"
+    }
+  },
+  "modal": {
+    "header": "Move the product to the archive?",
+    "header_delete": "Want to delete the product?",
+    "buttons": {
+      "add": "Archive",
+      "delete": "Delete"
+    }
+  }
+}

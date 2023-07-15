@@ -1,0 +1,31 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "jsxImportSource": "@emotion/react",
+    "target": "es2015",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "baseUrl": "./",
+    "paths": {
+      "@types": ["common/types"],
+      "@enums": ["common/enums"],
+      "@constants": ["common/constants"],
+      "@hooks": ["hooks"],
+      "@hocs": ["hocs"],
+      "@helpers": ["helpers"],
+      "@components/*": ["components/*"],
+      "@services": ["services"],
+      "@primitives": ["components/primitives"],
+      "@providers": ["providers"],
+      "@store": ["store"]
+    }
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "emotion.d.ts",
+    "../shared/src/common/constants/post.ts",
+    "components/imageCrop/component.tsx"
+  ],
+  "exclude": ["node_modules"]
+}

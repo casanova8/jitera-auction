@@ -1,0 +1,121 @@
+{
+  "headline": {
+    "makePost": "Make a Post",
+    "editPost": "Edit a Post",
+    "uploadPhotos": "Uploaded photos",
+    "description": "Description",
+    "contact": "Contact"
+  },
+  "button": {
+    "makePost": "Make a post",
+    "editPost": "Save and publish post",
+    "saveDraft": "Save as draft",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "deleteImage": "Delete image"
+  },
+  "caption": {
+    "uploadPhotos": "You can add from 2 up to 30 pics"
+  },
+  "tooltip": {
+    "price": "Make sure that you enter the correct price in digits!",
+    "recommendedPrice": "Price from which auction starts.",
+    "minimalBid": "Minimal difference between bids.",
+    "phone": "Your phone number must be filled according to Ukrainian format. Sample: +XXX XX XXX XX XX. Make sure that the phone number is correct!"
+  },
+  "label": {
+    "photosMain": "Drag and drop an image here or ",
+    "photosCaption": "choose image",
+    "category": "Category",
+    "name": "Title name",
+    "description": "Description",
+    "price": "Price",
+    "currency": "Currency",
+    "country": "Country",
+    "city": "City",
+    "callingCode": "Calling Code",
+    "phone": "Mobile phone",
+    "instagram": "Instagram",
+    "linkedin": "Linkedin",
+    "facebook": "Facebook",
+    "site": "Site",
+    "checkbox": "Hide phone number",
+    "minimalBid": "Minimal bid",
+    "recommendedPrice": "Starting Bid price",
+    "endDate": "End date",
+    "username": "Name",
+    "seller": "Seller",
+    "condition": "Condition"
+  },
+  "placeholder": {
+    "category": "Select the category",
+    "name": "Enter title",
+    "description": "Enter  description",
+    "price": "Enter your price",
+    "currency": "USD",
+    "country": "Indonesia",
+    "city": "Enter city",
+    "callingCode": "UA",
+    "phone": "()",
+    "instagram": "Enter your nickname",
+    "linkedin": "Enter your nickname",
+    "facebook": "Enter your nickname",
+    "site": "Enter site address",
+    "minimalBid": "Enter minimal bid",
+    "recommendedPrice": "Enter starting Bid price",
+    "username": "Enter user`s name",
+    "condition": "Select condition"
+  },
+  "validation": {
+    "link": {
+      "max": "Link too long",
+      "uri": "Invalid link format"
+    },
+    "images": {
+      "unsupportedType": "Unsupported file extension!",
+      "large": "File size too large!",
+      "many": "Too many images uploaded!",
+      "few": "Upload 2 or more images!"
+    },
+    "title": {
+      "long": "Title too long",
+      "empty": "Title cannot be empty"
+    },
+    "description": {
+      "long": "Description too long",
+      "empty": "Description cannot be empty"
+    },
+    "phone": {
+      "pattern": "Wrong phone format",
+      "empty": "Description cannot be empty"
+    },
+    "price": {
+      "base": "Price cannot be empty",
+      "empty": "Price cannot be empty"
+    },
+    "country": {
+      "empty": "Country cannot be empty"
+    },
+    "category": {
+      "empty": "Category cannot be empty"
+    },
+    "condition": {
+      "empty": "condition cannot be empty"
+    },
+    "date": {
+      "base": "Enter a date after today"
+    }
+  },
+  "sellerSelect": {
+    "currentUser": "Current user",
+    "otherUser": "Other user"
+  },
+  "conditionSelect": {
+    "used": "used",
+    "new": "new"
+  },
+  "notVerified": {
+    "text": "Please confirm your phone and email address first",
+    "btn": "Go to verify"
+  }
+}

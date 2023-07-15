@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "title": "Charity auction to help Ukraine",
+    "mobileTitle": "Help Ukraine",
+    "subtitle": "Buy and sell goods at auctions and help the Armed Forces of Ukraine. All raised money will be redirected to different charity funds by a choice.",
+    "slogan": "Glory to Ukraine!"
+  },
+  "popularCategories": {
+    "title": "Popular Categories",
+    "link": "See All Categories"
+  },
+  "popularLots": {
+    "title": "Popular Lots",
+    "link": "See All Lots"
+  },
+  "charityOrganizations": {
+    "title": "Charity Organizations"
+  },
+  "popularItems": {
+    "title": "Popular products",
+    "link": "See All Products"
+  }
+}

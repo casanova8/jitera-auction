@@ -1,0 +1,225 @@
+{
+  "header": {
+    "nav": {
+      "home": "Головна",
+      "category": "Категорії",
+      "item": "Речі",
+      "search": "Пошук",
+      "news": "Новини",
+      "about_us": "Про нас",
+      "profile": "Профіль"
+    },
+    "buttons": {
+      "create_account": "Створити Акаунт",
+      "sign_in": "Увійти в Акаунт",
+      "openMenu": "Відкрити меню",
+      "closeMenu": "Закрити меню"
+    },
+    "popover": {
+      "personalInfo": "Мій акаунт",
+      "myList": "Мій список",
+      "settings": "Налаштування",
+      "messages": "Повідомлення",
+      "support": "Підтримка",
+      "signOut": "Вийти",
+      "makePost": "Створити пост",
+      "notifications": "Сповіщення"
+    },
+    "notifications": {
+      "noNotification": "Сповіщень поки немає",
+      "loadMore": "Завантажити ще",
+      "tooltip": {
+        "productBtn": "Перейти до цього товару"
+      },
+      "ariaLabel": {
+        "viewed": "переглянуто",
+        "setViewed": "зробити прочитаним",
+        "toNotifications": "Усі сповіщення"
+      },
+      "toNotificationsBtn": "Усі сповіщення"
+    }
+  },
+  "footer": {
+    "contacts": "Контакти",
+    "security": "Безпека",
+    "securityLink": "Політики Конфіденційності",
+    "contactUs": "Зв'яжіться з нами",
+    "form": {
+      "formDescription": "Бажаєте продавати або бути партнерами з нами? Надішліть нам листа",
+      "fullName": "Ім'я та прізвище",
+      "fullNamePlaceholder": "Введіть ваше ім'я та прізвище",
+      "email": "Електронна пошта",
+      "emailPlaceholder": "Введіть вашу електронну пошту",
+      "description": "Опис",
+      "descriptionPlaceholder": "Опишіть ваше питання",
+      "send": "Відправити"
+    }
+  },
+  "categories": {
+    "LAPTOPS_AND_PC_CATEGORY_NAME": "Ноутбуки та комп'ютери",
+    "SMARTPHONES_TV_AND_ELECTRONICS_CATEGORY_NAME": "Смартфони, ТВ і електроніка",
+    "GOODS_FOR_GAMERS_CATEGORY_NAME": "Товари для геймерів",
+    "HOUSEHOLD_APPLIANCES_CATEGORY_NAME": "Побутова техніка",
+    "HOME_GOODS_CATEGORY_NAME": "Товари для дому",
+    "TOOLS_AND_AUTO_GOODS_CATEGORY_NAME": "Інструменти та автотовари",
+    "PLUMBING_AND_REPAIR_CATEGORY_NAME": "Сантехніка та ремонт",
+    "COTTAGE_GARDEN_AND_VEGETABLE_GARDEN_CATEGORY_NAME": "Дача і сад",
+    "SPORTS_AND_HOBBY_CATEGORY_NAME": "Спорт і захоплення",
+    "CLOTHES_SHOES_AND_JEWELRY_CATEGORY_NAME": "Одяг, взуття та прикраси",
+    "BEAUTY_AND_HEALTH_CATEGORY_NAME": "Краса та здоров'я",
+    "CHILDRENS_GOODS_CATEGORY_NAME": "Дитячі товари",
+    "PET_PRODUCTS_CATEGORY_NAME": "Зоотовари",
+    "OFFICE_SCHOOL_BOOKS_CATEGORY_NAME": "Офіс, школа, книги",
+    "ALCOHOLIC_BEVERAGES_AND_PRODUCTS_CATEGORY_NAME": "Алкогольні напої та продукти",
+    "SERVICES_CATEGORY_NAME": "Послуги"
+  },
+  "components": {
+    "product": {
+      "placeBidBtn": "Зробити ставку",
+      "buyBtn": "Купити",
+      "time": {
+        "hours": "г",
+        "days": "д",
+        "minutes": "хв",
+        "seconds": "с"
+      },
+      "addToFavorites": "Додати до вподобань",
+      "removeFromFavorites": "Прибрати з вподобань"
+    },
+    "slider": {
+      "prevStep": "Перейти до попереднього кроку",
+      "nextStep": "Перейти до наступного кроку"
+    },
+    "input": {
+      "searchProductsPlaceholder": "Пошук продуктів"
+    },
+    "makePostBtn": {
+      "unverified": "Вам потрібно підтвердити свій обліковий запис, щоб створити пост"
+    },
+    "modal": {
+      "closeLabel": "Закрити модальне вікно"
+    },
+    "typeOfPost": {
+      "headline": "Який тип продажу ви оберете?",
+      "btn": {
+        "auction": "Аукціон",
+        "or": "або",
+        "directSale": "Продаж",
+        "tooltip": {
+          "auction": "Вам потрібно підтвердити свій номер телефону, щоб вибрати \"Аукціон\"",
+          "directSale": "Вам потрібно підтвердити свій номер телефону, щоб вибрати \"Продаж\""
+        }
+      }
+    },
+    "badge": {
+      "removeLabel": "Видалити фільтр {{param}}"
+    },
+    "datePicker": {
+      "time": "Час"
+    }
+  },
+  "verify": {
+    "enterPhone": {
+      "headline": "Підтвердити",
+      "description": "Для підтвердження облікового запису, будь ласка, введіть свій телефон тут або на сторінці особистої інформації",
+      "input": "Телефон",
+      "button": {
+        "verify": "Підтвердити"
+      },
+      "link": {
+        "later": "Підтвердити пізніше"
+      },
+      "tooltip": "Спочатку збережіть оновлені дані для верифікації номеру"
+    },
+    "enterEmail": {
+      "headline": "Підтвердити",
+      "description": "Для підтвердження облікового запису, будь ласка, введіть свій email тут або на сторінці особистої інформації",
+      "input": "Email",
+      "button": {
+        "verify": "Підтвердити"
+      },
+      "link": {
+        "later": "Підтвердити пізніше"
+      },
+      "tooltip": "Спочатку збережіть оновлені дані для верифікації email"
+    },
+    "enterCode": {
+      "headline": "Підтвердити",
+      "description": "Код щойно було надіслано на",
+      "input": "Введіть код підтвердження з повідомлень",
+      "resend": "Надіслати ще раз",
+      "button": {
+        "continue": "Продовжити"
+      },
+      "link": {
+        "sendAgain": "Натисніть сюди"
+      },
+      "prevPageLabel": "Повернутись до попередньої сторінки"
+    },
+    "success": {
+      "headline": "Ваш акаунт було успішно підтверджено",
+      "button": {
+        "continue": "Продовжити"
+      }
+    }
+  },
+  "notifications": {
+    "defaultSuccessTitle": "Успіх",
+    "defaultInfoTitle": "Інформація",
+    "defaultWarningTitle": "Увага",
+    "defaultErrorTitle": "Помилка",
+    "avatarUpdated": "Аватар оновлений",
+    "profileUpdated": "Профіль оновлено",
+    "signUpSuccess": "Ви успішно зареєструвалися",
+    "phoneVerifySuccess": "Ваш номер телефону успішно перевірено",
+    "emailVerifySuccess": "Вашу електронну пошту успішно перевірено",
+    "phoneCodeResendSuccess": "Код для перевірки номеру телефону відправлено",
+    "emailCodeResendSuccess": "Код для перевірки електронної пошти відправлено",
+    "resetPasswordLinkSent": "Скиньте посилання на пароль надіслано",
+    "passwordUpdated": "Пароль оновлено",
+    "productAddedToFavorites": "Продукт додано до обраних",
+    "productRemovedFromFavorites": "Продукт видалено з обраних",
+    "bidPlaced": "Ставка зроблена",
+    "leftAuction": "Ви вийшли з аукціону",
+    "newBidPlaced": "Зроблена нова ставка на поточний товар",
+    "itemToArchive": "Товар доданий до архіву",
+    "itemToPosted": "Товар опубліковано",
+    "itemDeleted": "Товар видалено"
+  },
+  "months": [
+    "Січень",
+    "Лютий",
+    "Березень",
+    "Квітень",
+    "Травень",
+    "Червень",
+    "Липень",
+    "Серпень",
+    "Вересень",
+    "Жовтень",
+    "Листопад",
+    "Грудень"
+  ],
+  "days": [
+    "нд",
+    "пн",
+    "вт",
+    "ср",
+    "чт",
+    "пт",
+    "сб"
+  ],
+  "modal": {
+    "confirm": {
+      "confirm": "Підтвердити",
+      "cancel": "Відміна",
+      "header": "Підтвердіть вашу дію"
+    }
+  },
+  "resendBtn": {
+    "codeTimeLeft": "Залишилося часу для повторного надсилання коду",
+    "resendCode": "Надіслати код повторно",
+    "seconds": "с",
+    "text": "Отримати посилання"
+  }
+}

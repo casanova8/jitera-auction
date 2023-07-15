@@ -1,0 +1,101 @@
+{
+  "headline": {
+    "personalInfo": "Personal info",
+    "address": "Address",
+    "socialNetworks": "Social networks",
+    "password": "Password"
+  },
+  "action": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "verify": "Verify",
+    "edit": "Edit profile"
+  },
+  "button": {
+    "ok": "OK",
+    "cancel": "Cancel"
+  },
+  "avatar": {
+    "change": "Change the Photo",
+    "upload": "Upload the Photo",
+    "delete": "Delete the Photo"
+  },
+  "label": {
+    "deliveryData": "Place of delivery",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "country": "Country",
+    "region": "Region",
+    "city": "City",
+    "instagram": "Instagram",
+    "linkedin": "Linkedin",
+    "zipCode": "ZIP Code",
+    "facebook": "Facebook",
+    "newPassword": "New password",
+    "currentPassword": "Current password",
+    "repeatPassword": "Repeat password"
+  },
+  "placeholder": {
+    "firstName": "Enter your first name",
+    "lastName": "Enter your last name",
+    "email": "Enter your email",
+    "phone": "()",
+    "country": "Enter country",
+    "region": "Enter region",
+    "city": "Enter city",
+    "zip": "Enter ZIP Code",
+    "instagram": "Enter your Instagram",
+    "linkedin": "Enter your Linkedin",
+    "facebook": "Enter your Facebook",
+    "password": "Enter password",
+    "newPassword": "Enter password",
+    "repeatPassword": "Enter password",
+    "deliveryData": "Enter delivery address"
+  },
+  "validation": {
+    "personal": {
+      "firstNamePattern": "First name should consist of letters: А-Я or A-Z",
+      "firstNameRequired": "Enter your name please!",
+      "firstNameMin": "First name should have a minimum of 1 symbol",
+      "firstNameMax": "First name should have a maximum of 40 symbols",
+      "lastNamePattern": "Last name should consist of letters: А-Я or A-Z",
+      "lastNameRequired": "Enter your last name please!",
+      "lastNameMin": "Last name name should have a minimum of 1 symbol",
+      "lastNameMax": "Last name should have a maximum of 40 symbols",
+      "emailRequired": "Fill the email please!",
+      "emailPattern": "Check your email please. Example: my-email@example.com",
+      "phonePattern": "Check your mobile phone number please. Example: +628123456789"
+    },
+    "address": {
+      "placeName": "Should consist of letters: А-Я or A-Z",
+      "country": "The country name should contain no more than 60 characters",
+      "region": "The name of the region should contain no more than 30 characters",
+      "city": "The name of the settlement should contain no more than 30 characters",
+      "zip": "Zip code should consist of 5 digits",
+      "deliveryData": "Delivery details should contain no more than 256 characters"
+    },
+    "socialNetworks": {
+      "uri": "Example of link to your profile in the network: https://some-net/me-id-1234",
+      "maxSymbols": "The link can't exceed 200 characters"
+    },
+    "password": {
+      "minSymbols": "Password length must be at least 8 characters",
+      "maxSymbols": "Password length must not exceed 16 characters",
+      "wrongPassword": "Please enter correct password",
+      "samePassword": "The new password should not match the current one!",
+      "emptyPassword": "Fill the password please!",
+      "newPasswordPattern": "Password should include at least one uppercase, one lowercase and one number",
+      "differentPasswords": "Passwords are not same"
+    },
+    "avatar": {
+      "maxSize": "The file size should not exceed 10MB",
+      "fileType": "The file type should be .jpg or .png"
+    }
+  },
+  "tooltip": {
+    "verify": "To continue verifying your account, please save the changes"
+  },
+  "defaultCountry": "Ukraine"
+}

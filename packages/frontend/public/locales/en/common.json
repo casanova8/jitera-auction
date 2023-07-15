@@ -1,0 +1,240 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "category": "Category",
+      "item": "Items",
+      "search": "Search",
+      "news": "News",
+      "about_us": "About us",
+      "profile": "Profile"
+    },
+    "buttons": {
+      "create_account": "Create Account",
+      "sign_in": "Sign In",
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu"
+    },
+    "popover": {
+      "personalInfo": "Personal Info",
+      "myList": "My List",
+      "settings": "Settings",
+      "messages": "Messages",
+      "support": "Support",
+      "signOut": "Sign Out",
+      "makePost": "Make a Post",
+      "notifications": "Notifications"
+    },
+    "notifications": {
+      "noNotification": "No notifications yet",
+      "loadMore": "Load more",
+      "tooltip": {
+        "productBtn": "Go to this product"
+      },
+      "ariaLabel": {
+        "viewed": "viewed",
+        "setViewed": "set as viewed",
+        "toNotifications": "Go to all notifications"
+      },
+      "toNotificationsBtn": "Go to all notifications"
+    }
+  },
+  "footer": {
+    "contacts": "Contact",
+    "security": "Security",
+    "securityLink": "Privacy Policy",
+    "contactUs": "Contact us",
+    "form": {
+      "formDescription": "Looking to sell or partner with us? Send us an email",
+      "fullName": "Full name",
+      "fullNamePlaceholder": "Enter a full name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "description": "Description",
+      "descriptionPlaceholder": "Enter description",
+      "send": "Send"
+    }
+  },
+  "categories": {
+    "LAPTOPS_AND_PC_CATEGORY_NAME": "Laptops and computers",
+    "SMARTPHONES_TV_AND_ELECTRONICS_CATEGORY_NAME": "Smartphones, TV and electronics",
+    "GOODS_FOR_GAMERS_CATEGORY_NAME": "Goods for gamers",
+    "HOUSEHOLD_APPLIANCES_CATEGORY_NAME": "Household appliances",
+    "HOME_GOODS_CATEGORY_NAME": "Home Goods",
+    "TOOLS_AND_AUTO_GOODS_CATEGORY_NAME": "Tools and auto goods",
+    "PLUMBING_AND_REPAIR_CATEGORY_NAME": "Plumbing and repair",
+    "COTTAGE_GARDEN_AND_VEGETABLE_GARDEN_CATEGORY_NAME": "Cottage and garden",
+    "SPORTS_AND_HOBBY_CATEGORY_NAME": "Sports and hobby",
+    "CLOTHES_SHOES_AND_JEWELRY_CATEGORY_NAME": "Clothes, shoes and jewelry",
+    "BEAUTY_AND_HEALTH_CATEGORY_NAME": "Beauty and health",
+    "CHILDRENS_GOODS_CATEGORY_NAME": "Children's goods",
+    "PET_PRODUCTS_CATEGORY_NAME": "Pet products",
+    "OFFICE_SCHOOL_BOOKS_CATEGORY_NAME": "Office, school, books",
+    "ALCOHOLIC_BEVERAGES_AND_PRODUCTS_CATEGORY_NAME": "Alcoholic beverages and products",
+    "SERVICES_CATEGORY_NAME": "Services"
+  },
+  "components": {
+    "product": {
+      "placeBidBtn": "Place Bid",
+      "buyBtn": "Buy",
+      "time": {
+        "hours": "h",
+        "days": "d",
+        "minutes": "min",
+        "seconds": "s"
+      },
+      "addToFavorites": "Add to favorites",
+      "removeFromFavorites": "Remove from favorites"
+    },
+    "slider": {
+      "prevStep": "Go to previous step",
+      "nextStep": "Go to next step"
+    },
+    "input": {
+      "searchProductsPlaceholder": "Search the products"
+    },
+    "makePostBtn": {
+      "unverified": "Verify your account to make a post"
+    },
+    "modal": {
+      "closeLabel": "Close modal"
+    },
+    "typeOfPost": {
+      "headline": "What type a post do you create?",
+      "btn": {
+        "auction": "Auction",
+        "or": "or",
+        "directSale": "Fixed Price",
+        "tooltip": {
+          "auction": "You need to verify you phone number to choose \"Auction\"",
+          "directSale": "You need to verify you phone number to choose \"Fixed Price\""
+        }
+      }
+    },
+    "badge": {
+      "removeLabel": "Remove filter {{param}}"
+    },
+    "datePicker": {
+      "time": "Time"
+    }
+  },
+  "notifications": {
+    "defaultSuccessTitle": "Success",
+    "defaultInfoTitle": "Info",
+    "defaultWarningTitle": "Warning",
+    "defaultErrorTitle": "Error",
+    "avatarUpdated": "Avatar updated",
+    "profileUpdated": "Profile updated",
+    "signUpSuccess": "You have successfully registered",
+    "phoneVerifySuccess": "Your phone number has been successfully verified",
+    "emailVerifySuccess": "Your email has been successfully verified",
+    "phoneCodeResendSuccess": "Phone code successfully resend",
+    "emailCodeResendSuccess": "Email code successfully resend",
+    "resetPasswordLinkSent": "Reset password link sent",
+    "passwordUpdated": "Password updated",
+    "productAddedToFavorites": "Product added to favorite",
+    "productRemovedFromFavorites": "Product removed from favorite",
+    "bidPlaced": "Bid placed",
+    "leftAuction": "You left the auction",
+    "newBidPlaced": "New bid was placed to current product",
+    "itemToArchive": "Product was added to archive",
+    "itemToPosted": "Product has been posted",
+    "itemDeleted": "Product deleted"
+  },
+  "verify": {
+    "enterPhone": {
+      "headline": "Verify",
+      "description": "For further verification of account, please enter your phone here or verify it on your Personal Info page",
+      "input": "Phone",
+      "button": {
+        "verify": "Verify"
+      },
+      "link": {
+        "later": "Verify later"
+      },
+      "tooltip": "Please firstly save new profile data for verify phone",
+      "prevPageLabel": "Go to previous step"
+    },
+    "enterEmail": {
+      "headline": "Verify",
+      "description": "For further verification of account, please enter your email here or verify it on your Personal Info page",
+      "input": "Email",
+      "button": {
+        "verify": "Verify"
+      },
+      "link": {
+        "later": "Verify later"
+      },
+      "tooltip": "Please firstly save new profile data for verify email",
+      "prevPageLabel": "Go to previous step"
+    },
+    "enterCode": {
+      "headline": "Verify",
+      "description": "We just sent a code to",
+      "input": "Enter the verification code we just sent to you",
+      "resend": "Resend code",
+      "button": {
+        "continue": "Continue"
+      },
+      "link": {
+        "sendAgain": "Click here"
+      }
+    },
+    "success": {
+      "headline": "Your account has fully been verified",
+      "button": {
+        "continue": "Continue"
+      }
+    }
+  },
+  "HOURS_SHORT": "h",
+  "DAYS_SHORT": "d",
+  "MINUTES_SHORT": "min",
+  "SECONDS_SHORT": "s",
+  "CREATE_ACCOUNT": "Create Account",
+  "FIRST_NAME": "First Name",
+  "LAST_NAME": "Last Name",
+  "EMAIL": "E-mail",
+  "PASSWORD": "Password",
+  "REPEAT_PASSWORD": "Repeat password",
+  "PHONE_NUMBER": "Phone Number",
+  "I_HAVE_AN_ACCOUNT": "I have an account",
+  "SIGN_IN": "Sign In",
+  "SEND_RESET_LINK_BTN": "Send reset link",
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "days": [
+    "Su",
+    "Mo",
+    "Tu",
+    "We",
+    "Th",
+    "Fr",
+    "Sa"
+  ],
+  "modal": {
+    "confirm": {
+      "confirm": "Confirm",
+      "cancel": "Cancel",
+      "header": "Confirm your action"
+    }
+  },
+  "resendBtn": {
+    "codeTimeLeft": "Time left to resend code again",
+    "resendCode": "Resend verification code",
+    "seconds": "s",
+    "text": "Send reset link"
+  }
+}
