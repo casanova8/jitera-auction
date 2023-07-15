@@ -27,8 +27,8 @@ git config --global core.autocrlf input
 ### Backend 💾
 
 - Create DB using PostgreSQL
+- Run pg_restore dump.sql
 - Fill `.env` in `packages/backend` folder
-- Run `cd packages/backend && npm run db:generate && npm run db:migrate && npm run db:seed`
 
 ### Frontend 🖥
 
