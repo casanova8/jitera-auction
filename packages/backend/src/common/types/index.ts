@@ -6,6 +6,7 @@ export * from './user';
 export * from './email';
 export * from './bid';
 export * from './order';
+export * from './others';
 export * from './my-list-items';
 export * from './product';
 export * from './verification-code';

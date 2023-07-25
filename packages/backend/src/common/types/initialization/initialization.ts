@@ -2,6 +2,7 @@ import type {
   UserRepository,
   RefreshTokenRepository,
   CategoryRepository,
+  OtherRepository,
   ProductRepository,
   NewsRepository,
   HealthRepository,
@@ -30,10 +31,12 @@ import type {
   NotificationService,
   SMSSenderService,
   RedisStorageService,
+  OtherService,
 } from '@services';
 
 export type ServicesInit = {
   categoryService: CategoryService;
+  otherService: OtherService;
   productService: ProductService;
   newsService: NewsService;
   healthService: HealthService;
@@ -55,6 +58,7 @@ export type ServicesInit = {
 export type RepositoriesInit = {
   userRepository: UserRepository;
   categoryRepository: CategoryRepository;
+  otherRepository: OtherRepository;
   productRepository: ProductRepository;
   newsRepository: NewsRepository;
   refreshTokenRepository: RefreshTokenRepository;

@@ -13,4 +13,13 @@ type CategoryResponseDto = {
   productsCount: number | null;
 };
 
-export type { CategoryDto, CategoryResponseDto };
+type OtherResponseDto = {
+  id: string;
+  title: string;
+  createdAt: string;
+  image: string | null;
+  updatedAt: string;
+  productsCount: number | null;
+};
+
+export type { CategoryDto, CategoryResponseDto ,OtherResponseDto};

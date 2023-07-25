@@ -2,6 +2,7 @@ export enum ApiRoutes {
   USERS = '/users',
   ACCOUNT = '/account',
   CATEGORIES = '/categories',
+  OTHERS = '/others',
   PRODUCTS = '/products',
   NEWS = '/news',
   AUTH = '/auth',

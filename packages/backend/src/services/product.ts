@@ -223,7 +223,9 @@ export class ProductService {
     if (!isUserVerified) {
       throw new NotVerifiedError();
     }
-    const imageLinks = await this._s3StorageService.uploadProductImages(req);
+    // const imageLinks = await this._s3StorageService.uploadProductImages(req);
+    const imageLinks=""
+    
     if (fieldsData.type === ProductType.AUCTION) {
       fieldsData.price = fieldsData.recommendedPrice;
     }

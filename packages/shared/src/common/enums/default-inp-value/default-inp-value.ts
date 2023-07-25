@@ -1,3 +1,3 @@
 export enum DefaultInpValue {
-  PHONE = '+',
+  PHONE = '+380',
 }

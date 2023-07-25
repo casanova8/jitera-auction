@@ -12,6 +12,7 @@ export enum Routes {
   SEARCH = '/search',
   NEWS = '/news',
   ABOUT = '/about',
+  TEST = '/test',
   CATEGORIES = '/categories',
   NOT_FOUND = '/404',
   RULES = '/rules',

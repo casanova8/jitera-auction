@@ -8,6 +8,7 @@ import { isProduction } from '@helpers';
 import { AuctionScheduler } from '@scheduler';
 import type { ServicesInit } from '@types';
 import { CategoryService } from './category';
+import { OtherService } from './others';
 import { ProductService } from './product';
 import { AuthService } from './auth';
 import { HashService } from './hash';
@@ -56,6 +57,7 @@ export const initServices = (repositories: Repositories): ServicesInit => {
 
   return {
     categoryService: new CategoryService(repositories.categoryRepository),
+    otherService: new OtherService(repositories.otherRepository),
     productService: new ProductService(
       repositories.productRepository,
       verifyService,
@@ -113,6 +115,7 @@ export type Services = ReturnType<typeof initServices>;
 
 export {
   type CategoryService,
+  type OtherService,
   type ProductService,
   type AuthService,
   type HashService,

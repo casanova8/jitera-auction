@@ -11,6 +11,7 @@ import rules from './rules.json';
 import myList from './my-list.json';
 import checkout from './checkout.json';
 import about from './about.json';
+import test from './test.json';
 import errors from './errors.json';
 
 export const en = {
@@ -28,4 +29,5 @@ export const en = {
   checkout,
   about,
   errors,
+  test,
 };

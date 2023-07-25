@@ -2,6 +2,7 @@ import type { PrismaClient } from '@prisma/client';
 import type { RepositoriesInit } from '@types';
 import { UserRepository } from './user';
 import { CategoryRepository } from './category';
+import { OtherRepository } from './others';
 import { ProductRepository } from './product';
 import { RefreshTokenRepository } from './refresh-token';
 import { NewsRepository } from './news';
@@ -17,6 +18,7 @@ export const initRepositories = (
 ): RepositoriesInit => ({
   userRepository: new UserRepository(prismaClient),
   categoryRepository: new CategoryRepository(prismaClient),
+  otherRepository: new OtherRepository(prismaClient),
   productRepository: new ProductRepository(prismaClient),
   newsRepository: new NewsRepository(prismaClient),
   refreshTokenRepository: new RefreshTokenRepository(prismaClient),
@@ -34,6 +36,7 @@ export {
   type UserRepository,
   type RefreshTokenRepository,
   type CategoryRepository,
+  type OtherRepository,
   type ProductRepository,
   type NewsRepository,
   type HealthRepository,
